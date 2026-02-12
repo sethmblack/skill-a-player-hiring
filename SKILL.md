@@ -3,8 +3,8 @@ name: a-player-hiring
 description: Hire top talent using Netflix's Keeper Test and high-performance culture principles.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - hiring
 - talent
